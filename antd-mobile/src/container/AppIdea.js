@@ -40,87 +40,94 @@ export default class AppIdea extends Component {
                   
                    <div style={{backgroundColor:'#eeeeee',height:'600px',width:'100%'}}>
                          <WhiteSpace size="lg" />
+                         <WhiteSpace size="lg" />
                         <WingBlank style={{ 
                                             color: '#bbb',
                                             textAlign: 'center',
                                             height: '180px',
                                             lineHeight: '180px',
                                             width:'41%',
-                                            float:'left'
+                                            float:'left',
+                                            display:'inline-block',
+                                            margin:'0px'
+                                        
                                            }}>
                           {/* <PlaceHolder /> */}
                           <img src={require(`../imgs/灵感_03.jpg`)} style={{width:'100%',height:'180',float:'left'}}></img>
                         </WingBlank>
                         <WingBlank style={{
-                                            color: '#bbb',
-                                            textAlign: 'center',
-                                            height: '180px',
-                                            lineHeight: '180px',
-                                            width:'41%',
-                                            float:'left'
+                                             color: '#bbb',
+                                             textAlign: 'center',
+                                             height: '180px',
+                                             lineHeight: '180px',
+                                             width:'41%',
+                                             float:'right',
+                                             display:'inline-block',
+                                             margin:'0px'
                                            }}>
                           {/* <PlaceHolder /> */}
-                          <img src={require(`../imgs/灵感_04.jpg`)} style={{width:'100%',height:'180'}}></img>
+                          <img src={require(`../imgs/灵感_04.jpg`)} style={{width:'100%',height:'180',float:'left'}}></img>
                        </WingBlank>
 
-                        
+                       <WhiteSpace size="lg" />
+                         <WhiteSpace size="lg" />
+                        <WingBlank style={{ 
+                                            color: '#bbb',
+                                            textAlign: 'center',
+                                            height: '180px',
+                                            lineHeight: '180px',
+                                            width:'41%',
+                                            float:'left',
+                                            display:'inline-block',
+                                            margin:'0px'
+                                        
+                                           }}>
+                          {/* <PlaceHolder /> */}
+                          <img src={require(`../imgs/灵感_03.jpg`)} style={{width:'100%',height:'180',float:'left'}}></img>
+                        </WingBlank>
                         <WingBlank style={{
+                                             color: '#bbb',
+                                             textAlign: 'center',
+                                             height: '180px',
+                                             lineHeight: '180px',
+                                             width:'41%',
+                                             float:'right',
+                                             display:'inline-block',
+                                             margin:'0px'
+                                           }}>
+                          {/* <PlaceHolder /> */}
+                          <img src={require(`../imgs/灵感_04.jpg`)} style={{width:'100%',height:'180',float:'left'}}></img>
+                       </WingBlank>
+
+                       <WhiteSpace size="lg" />
+                         <WhiteSpace size="lg" />
+                        <WingBlank style={{ 
                                             color: '#bbb',
                                             textAlign: 'center',
                                             height: '180px',
                                             lineHeight: '180px',
                                             width:'41%',
-                                            float:'left'
+                                            float:'left',
+                                            display:'inline-block',
+                                            margin:'0px'
+                                        
                                            }}>
                           {/* <PlaceHolder /> */}
-                          <WhiteSpace size="lg" />
-                          <img src={require(`../imgs/灵感_03.jpg`)} style={{width:'100%',height:'180'}}></img>
-                          </WingBlank>
-
-
-                          <WingBlank style={{
-                                            color: '#bbb',
-                                            textAlign: 'center',
-                                            height: '180px',
-                                            lineHeight: '180px',
-                                            width:'41%',
-                                            float:'left'
+                          <img src={require(`../imgs/灵感_03.jpg`)} style={{width:'100%',height:'180',float:'left'}}></img>
+                        </WingBlank>
+                        <WingBlank style={{
+                                             color: '#bbb',
+                                             textAlign: 'center',
+                                             height: '180px',
+                                             lineHeight: '180px',
+                                             width:'41%',
+                                             float:'right',
+                                             display:'inline-block',
+                                             margin:'0px'
                                            }}>
                           {/* <PlaceHolder /> */}
-                          <WhiteSpace size="lg" />
-                          <img src={require(`../imgs/灵感_04.jpg`)} style={{width:'100%',height:'180'}}></img>
-                          </WingBlank>
-
-                          
-                          <WingBlank style={{
-                                            color: '#bbb',
-                                            textAlign: 'center',
-                                            height: '180px',
-                                            lineHeight: '180px',
-                                            width:'41%',
-                                            float:'left'
-                                           }}>
-                          {/* <PlaceHolder /> */}
-                          <WhiteSpace size="lg" />
-                          <WhiteSpace size="lg" />
-                          <img src={require(`../imgs/灵感_03.jpg`)} style={{width:'100%',height:'180'}}></img>
-                          </WingBlank>
-
-                         
-                          <WingBlank style={{
-                                            color: '#bbb',
-                                            textAlign: 'center',
-                                            height: '180px',
-                                            lineHeight: '180px',
-                                            width:'41%',
-                                            float:'left'
-                                           }}>
-                          {/* <PlaceHolder /> */}
-                          <WhiteSpace size="lg" />
-                          <WhiteSpace size="lg" />
-
-                          <img src={require(`../imgs/灵感_04.jpg`)} style={{width:'100%',height:'180'}}></img>
-                          </WingBlank>
+                          <img src={require(`../imgs/灵感_04.jpg`)} style={{width:'100%',height:'180',float:'left'}}></img>
+                       </WingBlank>
                    </div>
                   
 
@@ -128,89 +135,6 @@ export default class AppIdea extends Component {
                    {/* display；flex是为了居中 */}
                    <div style={{backgroundColor:'#eeeeee',height:'600px',width:'100%'}}>
                          <WhiteSpace size="lg" />
-                        <WingBlank style={{ 
-                                            color: '#bbb',
-                                            textAlign: 'center',
-                                            height: '180px',
-                                            lineHeight: '180px',
-                                            width:'41%',
-                                            float:'left'
-                                           }}>
-                          {/* <PlaceHolder /> */}
-                          <img src={require(`../imgs/灵感_03.jpg`)} style={{width:'100%',height:'180',float:'left'}}></img>
-                        </WingBlank>
-                        <WingBlank style={{
-                                            color: '#bbb',
-                                            textAlign: 'center',
-                                            height: '180px',
-                                            lineHeight: '180px',
-                                            width:'41%',
-                                            float:'left'
-                                           }}>
-                          {/* <PlaceHolder /> */}
-                          <img src={require(`../imgs/灵感_04.jpg`)} style={{width:'100%',height:'180'}}></img>
-                       </WingBlank>
-
-                        
-                        <WingBlank style={{
-                                            color: '#bbb',
-                                            textAlign: 'center',
-                                            height: '180px',
-                                            lineHeight: '180px',
-                                            width:'41%',
-                                            float:'left'
-                                           }}>
-                          {/* <PlaceHolder /> */}
-                          <WhiteSpace size="lg" />
-                          <img src={require(`../imgs/灵感_03.jpg`)} style={{width:'100%',height:'180'}}></img>
-                          </WingBlank>
-
-
-                          <WingBlank style={{
-                                            color: '#bbb',
-                                            textAlign: 'center',
-                                            height: '180px',
-                                            lineHeight: '180px',
-                                            width:'41%',
-                                            float:'left'
-                                           }}>
-                          {/* <PlaceHolder /> */}
-                          <WhiteSpace size="lg" />
-                          <img src={require(`../imgs/灵感_04.jpg`)} style={{width:'100%',height:'180'}}></img>
-                          </WingBlank>
-
-                          
-                          <WingBlank style={{
-                                            color: '#bbb',
-                                            textAlign: 'center',
-                                            height: '180px',
-                                            lineHeight: '180px',
-                                            width:'41%',
-                                            float:'left'
-                                           }}>
-                          {/* <PlaceHolder /> */}
-                          <WhiteSpace size="lg" />
-                          <WhiteSpace size="lg" />
-                          <img src={require(`../imgs/灵感_03.jpg`)} style={{width:'100%',height:'180'}}></img>
-                          </WingBlank>
-
-                         
-                          <WingBlank style={{
-                                            color: '#bbb',
-                                            textAlign: 'center',
-                                            height: '180px',
-                                            lineHeight: '180px',
-                                            width:'41%',
-                                            float:'left'
-                                           }}>
-                          {/* <PlaceHolder /> */}
-                          <WhiteSpace size="lg" />
-                          <WhiteSpace size="lg" />
-
-                          <img src={require(`../imgs/灵感_04.jpg`)} style={{width:'100%',height:'180'}}></img>
-                          </WingBlank>
-                   </div>
-                   <div style={{backgroundColor:'#eeeeee',height:'600px',width:'100%'}}>
                          <WhiteSpace size="lg" />
                         <WingBlank style={{ 
                                             color: '#bbb',
@@ -218,83 +142,29 @@ export default class AppIdea extends Component {
                                             height: '180px',
                                             lineHeight: '180px',
                                             width:'41%',
-                                            float:'left'
+                                            float:'left',
+                                            display:'inline-block',
+                                            margin:'0px'
+                                        
                                            }}>
                           {/* <PlaceHolder /> */}
                           <img src={require(`../imgs/灵感_03.jpg`)} style={{width:'100%',height:'180',float:'left'}}></img>
                         </WingBlank>
                         <WingBlank style={{
-                                            color: '#bbb',
-                                            textAlign: 'center',
-                                            height: '180px',
-                                            lineHeight: '180px',
-                                            width:'41%',
-                                            float:'left'
+                                             color: '#bbb',
+                                             textAlign: 'center',
+                                             height: '180px',
+                                             lineHeight: '180px',
+                                             width:'41%',
+                                             float:'right',
+                                             display:'inline-block',
+                                             margin:'0px'
                                            }}>
                           {/* <PlaceHolder /> */}
-                          <img src={require(`../imgs/灵感_04.jpg`)} style={{width:'100%',height:'180'}}></img>
+                          <img src={require(`../imgs/灵感_04.jpg`)} style={{width:'100%',height:'180',float:'left'}}></img>
                        </WingBlank>
 
-                        
-                        <WingBlank style={{
-                                            color: '#bbb',
-                                            textAlign: 'center',
-                                            height: '180px',
-                                            lineHeight: '180px',
-                                            width:'41%',
-                                            float:'left'
-                                           }}>
-                          {/* <PlaceHolder /> */}
-                          <WhiteSpace size="lg" />
-                          <img src={require(`../imgs/灵感_03.jpg`)} style={{width:'100%',height:'180'}}></img>
-                          </WingBlank>
-
-
-                          <WingBlank style={{
-                                            color: '#bbb',
-                                            textAlign: 'center',
-                                            height: '180px',
-                                            lineHeight: '180px',
-                                            width:'41%',
-                                            float:'left'
-                                           }}>
-                          {/* <PlaceHolder /> */}
-                          <WhiteSpace size="lg" />
-                          <img src={require(`../imgs/灵感_04.jpg`)} style={{width:'100%',height:'180'}}></img>
-                          </WingBlank>
-
-                          
-                          <WingBlank style={{
-                                            color: '#bbb',
-                                            textAlign: 'center',
-                                            height: '180px',
-                                            lineHeight: '180px',
-                                            width:'41%',
-                                            float:'left'
-                                           }}>
-                          {/* <PlaceHolder /> */}
-                          <WhiteSpace size="lg" />
-                          <WhiteSpace size="lg" />
-                          <img src={require(`../imgs/灵感_03.jpg`)} style={{width:'100%',height:'180'}}></img>
-                          </WingBlank>
-
-                         
-                          <WingBlank style={{
-                                            color: '#bbb',
-                                            textAlign: 'center',
-                                            height: '180px',
-                                            lineHeight: '180px',
-                                            width:'41%',
-                                            float:'left'
-                                           }}>
-                          {/* <PlaceHolder /> */}
-                          <WhiteSpace size="lg" />
-                          <WhiteSpace size="lg" />
-
-                          <img src={require(`../imgs/灵感_04.jpg`)} style={{width:'100%',height:'180'}}></img>
-                          </WingBlank>
-                   </div>
-                   <div style={{backgroundColor:'#eeeeee',height:'600px',width:'100%'}}>
+                       <WhiteSpace size="lg" />
                          <WhiteSpace size="lg" />
                         <WingBlank style={{ 
                                             color: '#bbb',
@@ -302,81 +172,239 @@ export default class AppIdea extends Component {
                                             height: '180px',
                                             lineHeight: '180px',
                                             width:'41%',
-                                            float:'left'
+                                            float:'left',
+                                            display:'inline-block',
+                                            margin:'0px'
+                                        
                                            }}>
                           {/* <PlaceHolder /> */}
                           <img src={require(`../imgs/灵感_03.jpg`)} style={{width:'100%',height:'180',float:'left'}}></img>
                         </WingBlank>
                         <WingBlank style={{
-                                            color: '#bbb',
-                                            textAlign: 'center',
-                                            height: '180px',
-                                            lineHeight: '180px',
-                                            width:'41%',
-                                            float:'left'
+                                             color: '#bbb',
+                                             textAlign: 'center',
+                                             height: '180px',
+                                             lineHeight: '180px',
+                                             width:'41%',
+                                             float:'right',
+                                             display:'inline-block',
+                                             margin:'0px'
                                            }}>
                           {/* <PlaceHolder /> */}
-                          <img src={require(`../imgs/灵感_04.jpg`)} style={{width:'100%',height:'180'}}></img>
+                          <img src={require(`../imgs/灵感_04.jpg`)} style={{width:'100%',height:'180',float:'left'}}></img>
                        </WingBlank>
 
-                        
+                       <WhiteSpace size="lg" />
+                         <WhiteSpace size="lg" />
+                        <WingBlank style={{ 
+                                            color: '#bbb',
+                                            textAlign: 'center',
+                                            height: '180px',
+                                            lineHeight: '180px',
+                                            width:'41%',
+                                            float:'left',
+                                            display:'inline-block',
+                                            margin:'0px'
+                                        
+                                           }}>
+                          {/* <PlaceHolder /> */}
+                          <img src={require(`../imgs/灵感_03.jpg`)} style={{width:'100%',height:'180',float:'left'}}></img>
+                        </WingBlank>
                         <WingBlank style={{
+                                             color: '#bbb',
+                                             textAlign: 'center',
+                                             height: '180px',
+                                             lineHeight: '180px',
+                                             width:'41%',
+                                             float:'right',
+                                             display:'inline-block',
+                                             margin:'0px'
+                                           }}>
+                          {/* <PlaceHolder /> */}
+                          <img src={require(`../imgs/灵感_04.jpg`)} style={{width:'100%',height:'180',float:'left'}}></img>
+                       </WingBlank>
+                   </div>
+                   <div style={{backgroundColor:'#eeeeee',height:'600px',width:'100%'}}>
+                         <WhiteSpace size="lg" />
+                         <WhiteSpace size="lg" />
+                        <WingBlank style={{ 
                                             color: '#bbb',
                                             textAlign: 'center',
                                             height: '180px',
                                             lineHeight: '180px',
                                             width:'41%',
-                                            float:'left'
+                                            float:'left',
+                                            display:'inline-block',
+                                            margin:'0px'
+                                        
                                            }}>
                           {/* <PlaceHolder /> */}
-                          <WhiteSpace size="lg" />
-                          <img src={require(`../imgs/灵感_03.jpg`)} style={{width:'100%',height:'180'}}></img>
-                          </WingBlank>
+                          <img src={require(`../imgs/灵感_03.jpg`)} style={{width:'100%',height:'180',float:'left'}}></img>
+                        </WingBlank>
+                        <WingBlank style={{
+                                             color: '#bbb',
+                                             textAlign: 'center',
+                                             height: '180px',
+                                             lineHeight: '180px',
+                                             width:'41%',
+                                             float:'right',
+                                             display:'inline-block',
+                                             margin:'0px'
+                                           }}>
+                          {/* <PlaceHolder /> */}
+                          <img src={require(`../imgs/灵感_04.jpg`)} style={{width:'100%',height:'180',float:'left'}}></img>
+                       </WingBlank>
 
-
-                          <WingBlank style={{
+                       <WhiteSpace size="lg" />
+                         <WhiteSpace size="lg" />
+                        <WingBlank style={{ 
                                             color: '#bbb',
                                             textAlign: 'center',
                                             height: '180px',
                                             lineHeight: '180px',
                                             width:'41%',
-                                            float:'left'
+                                            float:'left',
+                                            display:'inline-block',
+                                            margin:'0px'
+                                        
                                            }}>
                           {/* <PlaceHolder /> */}
-                          <WhiteSpace size="lg" />
-                          <img src={require(`../imgs/灵感_04.jpg`)} style={{width:'100%',height:'180'}}></img>
-                          </WingBlank>
+                          <img src={require(`../imgs/灵感_03.jpg`)} style={{width:'100%',height:'180',float:'left'}}></img>
+                        </WingBlank>
+                        <WingBlank style={{
+                                             color: '#bbb',
+                                             textAlign: 'center',
+                                             height: '180px',
+                                             lineHeight: '180px',
+                                             width:'41%',
+                                             float:'right',
+                                             display:'inline-block',
+                                             margin:'0px'
+                                           }}>
+                          {/* <PlaceHolder /> */}
+                          <img src={require(`../imgs/灵感_04.jpg`)} style={{width:'100%',height:'180',float:'left'}}></img>
+                       </WingBlank>
 
-                          
-                          <WingBlank style={{
+                       <WhiteSpace size="lg" />
+                         <WhiteSpace size="lg" />
+                        <WingBlank style={{ 
                                             color: '#bbb',
                                             textAlign: 'center',
                                             height: '180px',
                                             lineHeight: '180px',
                                             width:'41%',
-                                            float:'left'
+                                            float:'left',
+                                            display:'inline-block',
+                                            margin:'0px'
+                                        
                                            }}>
                           {/* <PlaceHolder /> */}
-                          <WhiteSpace size="lg" />
-                          <WhiteSpace size="lg" />
-                          <img src={require(`../imgs/灵感_03.jpg`)} style={{width:'100%',height:'180'}}></img>
-                          </WingBlank>
-
-                         
-                          <WingBlank style={{
+                          <img src={require(`../imgs/灵感_03.jpg`)} style={{width:'100%',height:'180',float:'left'}}></img>
+                        </WingBlank>
+                        <WingBlank style={{
+                                             color: '#bbb',
+                                             textAlign: 'center',
+                                             height: '180px',
+                                             lineHeight: '180px',
+                                             width:'41%',
+                                             float:'right',
+                                             display:'inline-block',
+                                             margin:'0px'
+                                           }}>
+                          {/* <PlaceHolder /> */}
+                          <img src={require(`../imgs/灵感_04.jpg`)} style={{width:'100%',height:'180',float:'left'}}></img>
+                       </WingBlank>
+                   </div>
+                   <div style={{backgroundColor:'#eeeeee',height:'600px',width:'100%'}}>
+                         <WhiteSpace size="lg" />
+                         <WhiteSpace size="lg" />
+                        <WingBlank style={{ 
                                             color: '#bbb',
                                             textAlign: 'center',
                                             height: '180px',
                                             lineHeight: '180px',
                                             width:'41%',
-                                            float:'left'
+                                            float:'left',
+                                            display:'inline-block',
+                                            margin:'0px'
+                                        
                                            }}>
                           {/* <PlaceHolder /> */}
-                          <WhiteSpace size="lg" />
-                          <WhiteSpace size="lg" />
+                          <img src={require(`../imgs/灵感_03.jpg`)} style={{width:'100%',height:'180',float:'left'}}></img>
+                        </WingBlank>
+                        <WingBlank style={{
+                                             color: '#bbb',
+                                             textAlign: 'center',
+                                             height: '180px',
+                                             lineHeight: '180px',
+                                             width:'41%',
+                                             float:'right',
+                                             display:'inline-block',
+                                             margin:'0px'
+                                           }}>
+                          {/* <PlaceHolder /> */}
+                          <img src={require(`../imgs/灵感_04.jpg`)} style={{width:'100%',height:'180',float:'left'}}></img>
+                       </WingBlank>
 
-                          <img src={require(`../imgs/灵感_04.jpg`)} style={{width:'100%',height:'180'}}></img>
-                          </WingBlank>
+                       <WhiteSpace size="lg" />
+                         <WhiteSpace size="lg" />
+                        <WingBlank style={{ 
+                                            color: '#bbb',
+                                            textAlign: 'center',
+                                            height: '180px',
+                                            lineHeight: '180px',
+                                            width:'41%',
+                                            float:'left',
+                                            display:'inline-block',
+                                            margin:'0px'
+                                        
+                                           }}>
+                          {/* <PlaceHolder /> */}
+                          <img src={require(`../imgs/灵感_03.jpg`)} style={{width:'100%',height:'180',float:'left'}}></img>
+                        </WingBlank>
+                        <WingBlank style={{
+                                             color: '#bbb',
+                                             textAlign: 'center',
+                                             height: '180px',
+                                             lineHeight: '180px',
+                                             width:'41%',
+                                             float:'right',
+                                             display:'inline-block',
+                                             margin:'0px'
+                                           }}>
+                          {/* <PlaceHolder /> */}
+                          <img src={require(`../imgs/灵感_04.jpg`)} style={{width:'100%',height:'180',float:'left'}}></img>
+                       </WingBlank>
+
+                       <WhiteSpace size="lg" />
+                         <WhiteSpace size="lg" />
+                        <WingBlank style={{ 
+                                            color: '#bbb',
+                                            textAlign: 'center',
+                                            height: '180px',
+                                            lineHeight: '180px',
+                                            width:'41%',
+                                            float:'left',
+                                            display:'inline-block',
+                                            margin:'0px'
+                                        
+                                           }}>
+                          {/* <PlaceHolder /> */}
+                          <img src={require(`../imgs/灵感_03.jpg`)} style={{width:'100%',height:'180',float:'left'}}></img>
+                        </WingBlank>
+                        <WingBlank style={{
+                                             color: '#bbb',
+                                             textAlign: 'center',
+                                             height: '180px',
+                                             lineHeight: '180px',
+                                             width:'41%',
+                                             float:'right',
+                                             display:'inline-block',
+                                             margin:'0px'
+                                           }}>
+                          {/* <PlaceHolder /> */}
+                          <img src={require(`../imgs/灵感_04.jpg`)} style={{width:'100%',height:'180',float:'left'}}></img>
+                       </WingBlank>
                    </div>
           </Tabs>
           <WhiteSpace />

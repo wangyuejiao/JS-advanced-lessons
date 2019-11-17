@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.css"],"names":[],"mappings":"AAEA,EACI,SAAU,CACV,QACJ,CAKA,aACI,yBACJ","file":"main.52bf9b16.chunk.css","sourcesContent":["/* 在CSS文件中引入antd的css文件 */\n@import '~antd/dist/antd.css';\n*{\n    padding: 0;\n    margin: 0;\n}\n/* body{\n    background-color: #ccc;\n} */\n\n.placeholder{\n    background:'url(require)';\n}"]}
